@@ -3,7 +3,9 @@ const elementTekst = document.querySelector('#tekst')
 let i = 0
 let intervalId
 
-const tekst = "Po mišljenju komandanta Srbije, a u suprotnosti sa iznetim za Hrvatsku, nemiri se u prvom redu i gotovo isključivo imaju pripisati komunističkom uticaju.\n\nNemački izveštaj od 11. avgusta 1941."
+const tekst = `Po mišljenju komandanta Srbije, a u suprotnosti sa iznetim za Hrvatsku, nemiri se u prvom redu i gotovo isključivo imaju pripisati komunističkom uticaju.
+
+Nemački izveštaj od 11. avgusta 1941.`
 
 export class Izvestaj {
   constructor() {
