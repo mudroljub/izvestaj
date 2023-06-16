@@ -23,8 +23,7 @@ body {
   padding-top: 12em;
 }
 
-.izvestaj-tekst,
-.izvestaj-potpis {
+.izvestaj-tekst {
   letter-spacing: 0.04em;
   line-height: 1.2;
   padding-left: 15%;
